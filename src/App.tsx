@@ -8,9 +8,6 @@ function App() {
 
   const [count, setCount] = useState(0);
 
-  let a = "Hello";
-  a = 22;
-
   return (
     <>
       <div>
